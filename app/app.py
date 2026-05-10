@@ -4,7 +4,7 @@ import joblib
 import os
 
 # load model
-MODEL_PATH = os.path.join(os.path.dirname(__file__), "models/churn_model.pkl")
+MODEL_PATH = os.path.join(os.path.dirname(__file__), "../models/churn_model.pkl")
 model = joblib.load(MODEL_PATH)
 
 st.title("Customer Churn Prediction")
