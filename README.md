@@ -85,3 +85,7 @@ IMPROVEMENTS THAT CAN BE MADE:
 2. Handle Class Imbalance, SMOTE.
 3. Improve Dashboard UI
 4. Deploy Online.
+
+Project is tested for deployment using Streamlit Cloud.
+bash:
+streamlit run app/app.py
