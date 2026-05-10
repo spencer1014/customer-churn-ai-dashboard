@@ -89,3 +89,6 @@ IMPROVEMENTS THAT CAN BE MADE:
 Project is tested for deployment using Streamlit Cloud.
 bash:
 streamlit run app/app.py
+
+LIVE DEMO: STREAMLIT APP
+https://customer-churn-ai-dashboard-ucnhm7cqbu5vzeyehtpqid.streamlit.app
