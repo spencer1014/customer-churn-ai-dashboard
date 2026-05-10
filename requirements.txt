@@ -1,2 +1,7 @@
 pandas
 pytest
+scikit-learn
+matplotlib
+seaborn
+streamlit
+joblit
